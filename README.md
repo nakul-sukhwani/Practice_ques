@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nakul-sukhwani/Practice_ques/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
