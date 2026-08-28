@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
