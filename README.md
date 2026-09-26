@@ -23,6 +23,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
