@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -22,12 +23,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
