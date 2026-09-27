@@ -6,6 +6,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0189-rotate-array) |
+| [2481-strictly-palindromic-number](https://github.com/nakul-sukhwani/Practice_ques/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0189-rotate-array) |
+| [2481-strictly-palindromic-number](https://github.com/nakul-sukhwani/Practice_ques/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nakul-sukhwani/Practice_ques/tree/master/0240-search-a-2d-matrix-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/nakul-sukhwani/Practice_ques/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
